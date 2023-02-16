@@ -1,2 +1,2 @@
-# Javascript
-This repo contans Javascript programming projects
+# JavaScript
+This repo contans JavaScript programming projects
